@@ -123,4 +123,4 @@ git remote add origin https://github.com/<mon-compte>/adminapi.git
 git push -u origin main
 ```
 
-URL du dépôt : _à compléter_
+URL du dépôt : https://github.com/GitPiR/adminapi
